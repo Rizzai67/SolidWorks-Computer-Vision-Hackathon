@@ -1,0 +1,1 @@
+# SolidWorks-Computer-Vision-Hackathon
